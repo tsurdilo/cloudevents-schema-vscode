@@ -74,6 +74,6 @@
 		"serialize-javascript": "^3.1.0",
 		"xml-zero-lexer": "^2.0.5",
 		"xml2js": "^0.4.19",
-		"minimist": ">=1.2.3"
+		"minimist": ">=1.2.6"
 	}
 }
